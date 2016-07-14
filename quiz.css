@@ -25,7 +25,8 @@ a {
 }
 .available {
   font-weight: 600;
-  background-color: #eee;
+  color: yellow;
+  background-color: darkgray;
   padding-left: 20px;
   /* border: 2px solid #fff; */
 }
@@ -46,9 +47,13 @@ img {
   font-size: .8em;
   line-height: .8em;
   padding-left: 20px;
+  font-weight: bold;
 }
 footer {
   font-size: .6em;
   text-align: right;
   padding-right: 10px;
+}
+div {
+  display: inline-block;
 }
