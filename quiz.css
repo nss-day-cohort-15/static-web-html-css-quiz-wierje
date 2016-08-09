@@ -1,10 +1,8 @@
 body {
-	
+
 }
 
-
-
-	article {
+article {
 	/* display: block; */
 	border: 1px solid lightblue;
 	width: 30%;
@@ -14,8 +12,7 @@ body {
 	float: left;
 	/* background-color: #eee; */
 }
-/* .title { 
-}*/
+
 #pencil {
 	background-color: yellow;
 	text-align: center;
@@ -60,10 +57,6 @@ body {
 	margin: 2px;
 }
 
-
-	a {
-	/* display: block; */
-}
 .justify {
 	text-align: justify;
 	padding: 0 15px;
@@ -75,6 +68,7 @@ body {
 	padding-left: 20px;
 /* border: 2px solid #fff; */
 }
+
 img {
 	/* border: 2px solid #ddd; */
 	display: block;
@@ -83,22 +77,25 @@ img {
 	margin-right: auto;
 	margin-top: 20px;
 	}
-	.specs {
+
+.specs {
 	text-align: center;
 	margin: 0;
-	/* padding: 0; */
-}
+	}
+
 .dim {
 	font-size: .8em;
 	line-height: .8em;
 	padding-left: 20px;
 	font-weight: bold;
 	}
-	footer {
+
+footer {
 	font-size: .6em;
 	text-align: right;
 	padding-right: 10px;
 	}
+
 div {
 display: block;
 }
